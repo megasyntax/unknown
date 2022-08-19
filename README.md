@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @DaftGits
-- 👀 I’m interested in being an arsehole
-- 🌱 I’m currently learning code c++ PYthon etc
-- 💞️ I’m looking to collaborate on talking to u mom
 - 📫 How to reach me plane/car/any transport
 
 <!---
