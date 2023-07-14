@@ -1,4 +1,4 @@
-- 📫 How to reach me plane/car/any transport
+- 📫 reach me by plane/car/any transport
 
 <!---
 DaftGits/DaftGits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
